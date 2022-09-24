@@ -39,6 +39,8 @@
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{adammastouri}/count.svg" alt="adammastouri :: Visitor's Count" /></p>
