@@ -41,6 +41,8 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=adammastouri_icons=true&theme=synthwave" alt="adammastouri :: Profile Stats" /></p>
+
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{adammastouri}/count.svg" alt="adammastouri :: Visitor's Count" /></p>
