@@ -1,16 +1,6 @@
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
-
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
-
 ##### Hi, I'm Adam:
 
 - 🎓Recent computer science
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- :mailbox: You can reach me with the links below
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ##### Languages I learn
 
@@ -20,7 +10,8 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg))
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![PHP](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg)
+![SQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
 
 ##### Some of the technologies I have worked with
 
