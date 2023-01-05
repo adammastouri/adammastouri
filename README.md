@@ -7,7 +7,7 @@
 ![HTML5](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
 ![Java](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)
 ![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg)
-![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
+![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg))
 ![PHP](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg)
 ![SQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
 
