@@ -4,9 +4,9 @@
 
 ##### Languages I learn
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![HTML5](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg))
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
